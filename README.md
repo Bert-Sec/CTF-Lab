@@ -30,7 +30,7 @@ Each challenge is crafted to teach you about common web security issues and how 
 
 ---
 
-### Cryptography
+### Crypto
 
 The **Cryptography** section includes challenges focused on encoding, encryption, and decryption techniques. Here, you’ll explore concepts like:
 
