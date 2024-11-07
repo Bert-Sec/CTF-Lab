@@ -41,7 +41,7 @@ Each category folder contains challenges with hints, descriptions, and links to 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/CTF-Lab.git
+   git clone https://github.com/bert-sec/CTF-Lab.git
    cd CTF-Lab
 
 2. **Explore Challenges:**
