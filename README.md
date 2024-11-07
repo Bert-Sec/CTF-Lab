@@ -45,10 +45,10 @@ Each category folder contains challenges with hints, descriptions, and links to 
    cd CTF-Lab
 
 2. **Explore Challenges:**
-   Navigate through the folders to find challenges in your area of interest. Each challenge folder includes a README with a brief description and a link to the solution on bertsec.com.
+   Navigate through the folders to find challenges in your area of interest. Each challenge folder includes a README with a brief description and a link to the solution on [bertsec.com](https://bertsec.com).
 
 3. **Follow Write-ups:**
-   For full solutions, visit bertsec.com, where each challenge is explained with step-by-step walkthroughs.
+   For full solutions, visit [bertsec.com](https://bertsec.com), where each challenge is explained with step-by-step walkthroughs.
 
 ### How to Contribute
 
@@ -64,4 +64,4 @@ Make sure your contributions are well-documented, and provide a link to any writ
 
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
-Happy hacking! For any questions or feedback, feel free to reach out on bertsec.com.
+Happy hacking! For any questions or feedback, feel free to reach out on [bertsec.com](https://bertsec.com).
